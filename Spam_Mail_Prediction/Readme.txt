@@ -1,0 +1,1 @@
+This is basic spam mail prediction project. Here is dataset link : https://drive.google.com/file/d/1uzbhec5TW_OjFr4UUZkoMm0rpyvYdhZw/view
